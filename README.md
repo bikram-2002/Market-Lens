@@ -49,7 +49,7 @@ To replicate the analysis or contribute to the project, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/X-Saikat-93/Market-Lens.git
+   https://github.com/bikram-2002/Market-Lens.git
    ```
 
 2. **Install the required dependencies:**
@@ -64,9 +64,8 @@ Contributions are welcome! If you have suggestions for improvements or new analy
 
 ## Contact Information
 
-- Check my Portfolio here: [Saikat Das](https://xsaikat.vercel.app/)
-- Connect with me on LinkedIn: [Saikat Das](https://www.linkedin.com/in/saikat933/)
-- For inquiries, reach out via email: ibx.saikat37@gmail.com
+- Connect with me on LinkedIn: [Bikram Mandal](https://www.linkedin.com/in/bikram-mandal-3b080a223)
+- For inquiries, reach out via email: bikrammandal812@gmail.com
 
 ***Thank you for exploring this project!***
 
